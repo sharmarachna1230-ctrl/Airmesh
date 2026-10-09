@@ -1,0 +1,6 @@
+{
+  "name": "AirMesh",
+  "description": "Offline P2P Bluetooth & Wi-Fi Direct messaging app with WhatsApp UI, contact discovery, store-and-forward mesh routing, E2EE encryption, and walkie-talkie audio calling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
